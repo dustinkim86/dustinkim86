@@ -2,14 +2,13 @@
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdustinkim86)](https://hits.seeyoufarm.com)
 
+[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://dustinkim86.github.io/)](https://dustinkim86.github.io/)
+
 [![dustinkim86's github stats](https://github-readme-stats.vercel.app/api?username=dustinkim86)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-
-[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://dustinkim86.github.io/)](https://dustinkim86.github.io/)
-
-### Hi there 👋
+### 늦깍이 입문자가 정보를 쌓아 나가는 공간
 
 <!--
 **dustinkim86/dustinkim86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
