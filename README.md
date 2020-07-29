@@ -7,7 +7,7 @@
 </div>
 
 
-
+[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://dustinkim86.github.io/)](https://dustinkim86.github.io/)
 
 ### Hi there 👋
 
