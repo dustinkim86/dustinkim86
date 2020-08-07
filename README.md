@@ -4,7 +4,8 @@
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://dustinkim86.github.io/)](https://dustinkim86.github.io/)
 
-![dustinkim86's github stats](https://github-readme-stats.vercel.app/api?username=dustinkim86&show_icons=true&theme=shades-of-purple)
+![dustinkim86's github stats](https://github-readme-stats.vercel.app/api?username=dustinkim86&show_icons=true&theme=shades-of-purple&show_icons=true)
+
 
 #### 늦깍이 입문자가 정보를 쌓아 나가는 공간
 </div>
