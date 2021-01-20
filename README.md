@@ -2,7 +2,7 @@
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdustinkim86)](https://hits.seeyoufarm.com)
 
-[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://dustinkim86.github.io/)](https://dustinkim86.github.io/)
+[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=notion&link=https://dustinkim86.github.io/)](https://www.notion.so/Hoya-Wiki-ea18176634e5436594d9eb3e57c8373c)
 
 ![dustinkim86's github stats](https://github-readme-stats.vercel.app/api?username=dustinkim86&theme=shades-of-purple&show_icons=true)
 
